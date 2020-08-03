@@ -1,0 +1,33 @@
+{
+  "name": "heart",
+  "description": "H.E.A.R.T | Disaster Assistance",
+  "main": "index.js",
+  "authors": [
+    "Anway Somani"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "heart",
+    "disaster"
+  ],
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.8.0",
+    "angular-animate": "^1.8.0",
+    "angular-route": "^1.8.0",
+    "jquery": "^3.5.1",
+    "animate.css": "^4.1.0",
+    "bootstrap": "^4.5.0",
+    "fontawesome": "^5.13.1",
+    "angular-bootstrap": "^2.5.0",
+    "angular-ui-select": "^0.19.8",
+    "angular-sanitize": "^1.8.0"
+  }
+}
